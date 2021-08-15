@@ -43,3 +43,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+apps/api/obj/Debug/netcoreapp3.1/api.assets.cache
