@@ -18,3 +18,11 @@ C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\des
 C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\obj\Debug\netcoreapp3.1\api.dll
 C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\obj\Debug\netcoreapp3.1\api.pdb
 C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User_PC\Documents\Vitor\Trabalhos\PJ\Empresas\Atílio\Teste\Oficial\desafio-dev-main\apps\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
