@@ -2,7 +2,9 @@ DELETE FROM db_dev.tb_cnab;
 TRUNCATE TABLE db_dev.tb_cnab;
 
 DELETE FROM db_dev.tb_transaction_type;
+SET FOREIGN_KEY_CHECKS = 0;
 TRUNCATE TABLE db_dev.tb_transaction_type;
+SET FOREIGN_KEY_CHECKS = 1;
 
 INSERT INTO tb_transaction_type (nm_description, nm_type, vl_signal)
 VALUES ('DÉBITO', 'ENTRADA', 1);

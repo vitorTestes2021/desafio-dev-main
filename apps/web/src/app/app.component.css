@@ -1,0 +1,15 @@
+#main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    min-width: 100%;
+    justify-content: center;
+}
+
+#result {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    min-width: 100%;
+}

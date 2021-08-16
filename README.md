@@ -139,6 +139,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Swagger (Para conferir os endpoints)](http://localhost:5000/swagger)**
 
+#### **Banco de Dados** ([MySQL](https://www.mysql.com/))
+
+-   **Rodar os scripts 001 e 002 (apps/api/scripts)**
+
 ---
 
 ## 🦸 Autor

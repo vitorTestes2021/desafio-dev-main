@@ -48,10 +48,6 @@ namespace api.Controllers
         public IActionResult Get()
         {
             var cnabs = _cnabRepository.GetAll();
-            if (cnabs.Count() == 0)
-            {
-                return NoContent();
-            }
             return Ok(cnabs);
         }
 

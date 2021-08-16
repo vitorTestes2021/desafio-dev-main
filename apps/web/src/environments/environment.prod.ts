@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
-};
+    production: true,
+    cnabApiUrl: 'http://localhost:5000/cnab'
+}
