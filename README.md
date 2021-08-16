@@ -19,11 +19,11 @@
 -   [Layout](#-layout)
 -   [Como executar o projeto](#-como-executar-o-projeto)
     -   [Pré-requisitos](#pré-requisitos)
-    -   [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
+    -   [Rodando a api (Backend)](#user-content--rodando-o-backend-servidor)
     -   [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
 -   [Tecnologias](#-tecnologias)
-    -   [Web](#user-content-website--angular----typescript)
     -   [Api](#user-content-server--.NETCore----c#)
+    -   [Web](#user-content-website--angular----typescript)
 -   [Autor](#-autor)
 -   [Licença](#user-content--licença)
 <!--te-->
@@ -68,7 +68,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [.NET Core](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.412-windows-x64-installer).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o Backend (servidor)
+#### 🎲 Rodando a api (Backend)
 
 ```bash
 
