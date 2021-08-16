@@ -47,7 +47,7 @@ CNAB API - é a api feita para integrar CNAB.
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./apps/web/src/assets/web.svg" width="400px">
+  <img src="./apps/web/src/assets/home.png" width="400px">
 </p>
 
 ---
@@ -90,9 +90,6 @@ $ dotnet run
 # O servidor inciará na porta:5000 - acesse http://localhost:5000
 
 ```
-
-<p align="center"><img src="./apps/web/src/assets/home.png" alt="Run in Insomnia"></a>
-</p>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
