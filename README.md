@@ -124,13 +124,13 @@ $ npm run start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website** ([Angular](https://angular.io/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Web** ([Angular](https://angular.io/) + [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Prime NG](https://primefaces.org/)**
 
 > Veja o arquivo [package.json](https://github.com/vitorTestes2021/desafio-dev-main/blob/main/apps/web/package.json)
 
-#### **Server** ([.NET Core](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.412-windows-x64-installer) + [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/))
+#### **Api** ([.NET Core](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.412-windows-x64-installer) + [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/))
 
 -   **[Swagger (Para conferir os endpoints)](http://localhost:5000/swagger)**
 
