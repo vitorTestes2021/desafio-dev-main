@@ -91,8 +91,7 @@ $ dotnet run
 
 ```
 
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<p align="center"><img src="./apps/web/src/assets/home.png" alt="Run in Insomnia"></a>
 </p>
 
 #### 🧭 Rodando a aplicação web (Frontend)
